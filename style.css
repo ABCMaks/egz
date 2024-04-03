@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+#baner {
+    background: #1C59A7;
+    color: white;
+    text-align: center;
+    height: 80px;
+  }
+
+#srodek{
+background: #5a8ac8;
+width:  33%;
+height: 200px;
+float: left;
+}
+#lewy{
+    background: #3a70b5;
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+#prawy{
+    background: #86acdd;
+    text-align: center;
+    width: 34%;
+    height: 200px;
+    float: left;
+}
+#dół{
+    background: #86acdd;
+    text-align: center;
+    height: 300px;
+    clear: both;
+}
+#stopka{
+    background-color: #1c59a7;
+    color: white;
+    margin: 0;
+}
